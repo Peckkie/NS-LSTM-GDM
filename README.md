@@ -209,5 +209,5 @@ conda install -c conda-forge p7zip -y
  
 ---
  
-*สร้างขึ้นสำหรับโปรเจค NS-LSTM-GDM | KKU Workshop 2026*
+
  
