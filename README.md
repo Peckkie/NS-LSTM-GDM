@@ -1,7 +1,7 @@
 # NS-LSTM-GDM — Installation Guide
  
 ## FourCastNet Workshop Environment Setup
-> ทดสอบแล้วบน Ubuntu + NVIDIA GPU (CUDA 11.6) | Python 3.10
+> ทดสอบแล้วบน Terminal + NVIDIA GPU (CUDA 11.6) | Python 3.10
  
 ---
  
